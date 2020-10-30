@@ -1,1 +1,0 @@
-# staticblog1
